@@ -1,0 +1,39 @@
+# This is a generated file. Not intended for manual editing.
+services:
+  discount.grpc:
+    build:
+      context: "E:\\AspNetCore-Projects\\EShopMicroservices\\src"
+      dockerfile: "Services/Discount/Discount.Grpc/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net9.0/Discount.Grpc.dll"
+    environment:
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "discount.grpc:dev"
+    ports: []
+    volumes:
+    - "E:\\AspNetCore-Projects\\EShopMicroservices\\src\\Services\\Discount\\Discount.Grpc:/app:rw"
+    - "E:\\AspNetCore-Projects\\EShopMicroservices\\src:/src:rw"
+    - "C:\\Users\\Notebook\\.nuget\\packages:/home/app/.nuget/packages"
+    working_dir: "/app"
+  ordering.api:
+    build:
+      context: "E:\\AspNetCore-Projects\\EShopMicroservices\\src"
+      dockerfile: "Services/Ordering/Ordering.API/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net9.0/Ordering.API.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "ordering.api:dev"
+    ports: []
+    volumes:
+    - "E:\\AspNetCore-Projects\\EShopMicroservices\\src\\Services\\Ordering\\Ordering.API:/app:rw"
+    - "E:\\AspNetCore-Projects\\EShopMicroservices\\src:/src:rw"
+    - "C:\\Users\\Notebook\\.nuget\\packages:/home/app/.nuget/packages"
+    working_dir: "/app"

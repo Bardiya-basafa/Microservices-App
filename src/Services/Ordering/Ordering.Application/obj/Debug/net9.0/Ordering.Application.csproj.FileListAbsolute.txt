@@ -1,0 +1,17 @@
+E:\AspNetCore-Projects\EShopMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net9.0\Ordering.Application.deps.json
+E:\AspNetCore-Projects\EShopMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net9.0\Ordering.Application.dll
+E:\AspNetCore-Projects\EShopMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net9.0\Ordering.Application.pdb
+E:\AspNetCore-Projects\EShopMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net9.0\BuildingBlocks.dll
+E:\AspNetCore-Projects\EShopMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net9.0\Ordering.Domain.dll
+E:\AspNetCore-Projects\EShopMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net9.0\BuildingBlocks.pdb
+E:\AspNetCore-Projects\EShopMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net9.0\Ordering.Domain.pdb
+E:\AspNetCore-Projects\EShopMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net9.0\Ordering.Application.csproj.AssemblyReference.cache
+E:\AspNetCore-Projects\EShopMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net9.0\Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\AspNetCore-Projects\EShopMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net9.0\Ordering.Application.AssemblyInfoInputs.cache
+E:\AspNetCore-Projects\EShopMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net9.0\Ordering.Application.AssemblyInfo.cs
+E:\AspNetCore-Projects\EShopMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net9.0\Ordering.Application.csproj.CoreCompileInputs.cache
+E:\AspNetCore-Projects\EShopMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net9.0\Ordering.50CBBEA9.Up2Date
+E:\AspNetCore-Projects\EShopMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net9.0\Ordering.Application.dll
+E:\AspNetCore-Projects\EShopMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net9.0\refint\Ordering.Application.dll
+E:\AspNetCore-Projects\EShopMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net9.0\Ordering.Application.pdb
+E:\AspNetCore-Projects\EShopMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net9.0\ref\Ordering.Application.dll
